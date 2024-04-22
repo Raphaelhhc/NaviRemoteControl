@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "783651841957",
+    "project_id": "hhc-nc-lab-qr-code-mobile",
+    "storage_bucket": "hhc-nc-lab-qr-code-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783651841957:android:d96e3367d8e5da5f9e2a4c",
+        "android_client_info": {
+          "package_name": "com.example.nc_lab_qr_code_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh5at5ZjeCcqldRYs-gcEu8ESuhh1Qu2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
